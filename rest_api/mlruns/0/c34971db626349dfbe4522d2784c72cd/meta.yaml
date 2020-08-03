@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/Downloads/Haystack/Programs/rest_api/mlruns/0/c34971db626349dfbe4522d2784c72cd/artifacts
+end_time: 1596466024359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c34971db626349dfbe4522d2784c72cd
+run_uuid: c34971db626349dfbe4522d2784c72cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1596466012014
+status: 3
+tags: []
+user_id: ubuntu

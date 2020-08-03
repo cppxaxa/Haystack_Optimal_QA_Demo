@@ -1,0 +1,6 @@
+~/.cache/torch/transformers
+
+Find the json files inside
+If the json file has the name of the model, same file name will have 3 different files with different extensions. Those files will represent data.
+
+Note: One of the variations of the files will have no extension having the large data
